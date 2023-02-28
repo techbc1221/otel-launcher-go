@@ -13,7 +13,7 @@ require (
 	// b3 and opentracing propagators
 	go.opentelemetry.io/contrib/propagators/b3 v1.11.1
 	go.opentelemetry.io/contrib/propagators/ot v1.11.1
-	go.opentelemetry.io/otel v1.11.1
+	go.opentelemetry.io/otel v1.14.0
 
 	// Standard metric gRPC OTLP exporter
 	go.opentelemetry.io/otel/exporters/otlp/otlpmetric/otlpmetricgrpc v0.31.0
@@ -38,14 +38,14 @@ require (
 	github.com/lufia/plan9stats v0.0.0-20211012122336-39d0f177ccd0 // indirect
 	github.com/power-devops/perfstat v0.0.0-20210106213030-5aafc221ea8c // indirect
 	github.com/shirou/gopsutil/v3 v3.22.9 // indirect
-	github.com/stretchr/testify v1.8.0
+	github.com/stretchr/testify v1.8.2
 	github.com/tklauser/go-sysconf v0.3.10 // indirect
 	github.com/tklauser/numcpus v0.4.0 // indirect
 	github.com/yusufpapurcu/wmi v1.2.2 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/internal/retry v1.11.1 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlpmetric v0.31.0
 	go.opentelemetry.io/otel/sdk/metric v0.31.0
-	go.opentelemetry.io/otel/trace v1.11.1 // indirect
+	go.opentelemetry.io/otel/trace v1.14.0 // indirect
 	go.opentelemetry.io/proto/otlp v0.19.0
 	go.uber.org/atomic v1.7.0 // indirect
 	go.uber.org/multierr v1.8.0 // indirect
