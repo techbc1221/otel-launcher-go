@@ -6,11 +6,11 @@ require (
 	github.com/lightstep/otel-launcher-go/lightstep/sdk/metric v1.11.1
 	github.com/lightstep/otel-launcher-go/pipelines v1.11.1
 	github.com/sethvargo/go-envconfig v0.8.2
-	github.com/stretchr/testify v1.8.1
-	go.opentelemetry.io/otel v1.11.1
+	github.com/stretchr/testify v1.8.2
+	go.opentelemetry.io/otel v1.14.0
 	go.opentelemetry.io/otel/metric v0.33.0
-	go.opentelemetry.io/otel/sdk v1.11.1
-	go.opentelemetry.io/otel/trace v1.11.1
+	go.opentelemetry.io/otel/sdk v1.14.0
+	go.opentelemetry.io/otel/trace v1.14.0
 )
 
 require (
@@ -46,7 +46,7 @@ require (
 	go.uber.org/atomic v1.7.0 // indirect
 	go.uber.org/multierr v1.8.0 // indirect
 	golang.org/x/net v0.0.0-20220111093109-d55c255bac03 // indirect
-	golang.org/x/sys v0.0.0-20220919091848-fb04ddd9f9c8 // indirect
+	golang.org/x/sys v0.5.0 // indirect
 	golang.org/x/text v0.3.7 // indirect
 	google.golang.org/genproto v0.0.0-20220112215332-a9c7c0acf9f2 // indirect
 	google.golang.org/grpc v1.50.1 // indirect
